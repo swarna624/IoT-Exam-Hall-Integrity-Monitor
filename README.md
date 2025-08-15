@@ -39,9 +39,3 @@ The **IoT Exam Hall Integrity Monitor** detects suspicious activities like unaut
 2. ESP32 processes data and sends it to the cloud.
 3. Alerts are triggered if thresholds are exceeded.
 4. Invigilators can view live data on the dashboard.
-
----
----
-
-## **📄 License**
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
